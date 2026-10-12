@@ -29,7 +29,8 @@ Pracujem s priemyselnými robotmi, PLC systémami Siemens, IoT technológiami, 3
 ## 🛠️ Moje vybavenie
 ### 🖨️ 3D tlač
 - **Bambulab A1 Combo** – rýchla, presná, spoľahlivá tlač  
-- **Ender 3KE** – univerzálna, vhodná na dlhé a veľké tlače  
+- **Ender 3 V3 KE** – univerzálna, vhodná na dlhé a veľké tlače
+- **PLA, ABS, PETG**  
 
 ### 🔥 Laser
 - **LED Laser 5W (20×25 cm)** – gravírovanie dreva, plastu, kože, štítkov
@@ -103,7 +104,8 @@ I work with industrial robots, Siemens PLC systems, IoT technologies, 3D printin
 ### 🖨️ 3D Printing
 - **Bambulab A1 Combo** – fast, precise, reliable  
 - **Ender 3KE** – universal, great for long prints  
-
+- **PLA, ABS, PETG**
+  
 ### 🔥 Laser
 - **LED Laser 5W (20×25 cm)** – engraving wood, plastic, leather, labels  
 
