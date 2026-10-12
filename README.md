@@ -23,7 +23,7 @@ Pracujem s priemyselnými robotmi, PLC systémami Siemens, IoT technológiami, 3
 - **Python programovanie** – automatizácia, skripty, IoT integrácie, spracovanie dát  
 - **Robotika** – ABB IRC5, Fanuc, senzorika  
 - **Automatizácia & integrácie** – smart domácnosti, malé priemyselné riešenia  
-
+- **Diagnostika priemyselných zariadení** – pomoc firmám pri diagnostika porúch zariadení, návrhy nápravných opatrení    
 ---
 
 ## 🛠️ Moje vybavenie
@@ -97,7 +97,7 @@ I work with industrial robots, Siemens PLC systems, IoT technologies, 3D printin
 - **Python Programming** – automation, scripts, IoT integrations, data processing  
 - **Robotics** – ABB IRC5, Fanuc, sensor integration  
 - **Automation & Integrations** – smart home systems, small industrial solutions  
-
+- **Industrial Diagnostics** – helping companies identify and troubleshoot equipment failures  
 ---
 
 ## 🛠️ My Equipment
